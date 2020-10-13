@@ -1,5 +1,5 @@
 """Unit test file for app.py"""
-from scr.app import returnBackwardsString
+from app import returnBackwardsString
 import unittest
 
 class TestApp(unittest.TestCase):
